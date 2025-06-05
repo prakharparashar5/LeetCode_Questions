@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
