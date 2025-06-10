@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
