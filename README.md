@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Dynamic Programming
 |  |
 | ------- |
