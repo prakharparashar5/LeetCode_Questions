@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
+| [0724-find-pivot-index](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0792-binary-search) |
 | [1168-duplicate-zeros](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1168-duplicate-zeros) |
 | [2058-concatenation-of-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2058-concatenation-of-array) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
