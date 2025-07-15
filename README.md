@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0561-array-partition) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
