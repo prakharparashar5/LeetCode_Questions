@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
 ## Trie
 |  |
