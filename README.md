@@ -110,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
