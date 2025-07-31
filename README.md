@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0733-flood-fill) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
