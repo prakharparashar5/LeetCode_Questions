@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
