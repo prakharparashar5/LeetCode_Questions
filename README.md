@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0066-plus-one) |
+| [2649-count-total-number-of-colored-cells](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
 |  |
 | ------- |
