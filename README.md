@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0561-array-partition) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [1168-duplicate-zeros](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1168-duplicate-zeros) |
 ## Sorting
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
 |  |
