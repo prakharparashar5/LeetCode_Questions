@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0724-find-pivot-index) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 ## Counting Sort
 |  |
