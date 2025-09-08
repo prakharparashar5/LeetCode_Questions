@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [1168-duplicate-zeros](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1168-duplicate-zeros) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0792-binary-search) |
 ## Divide and Conquer
