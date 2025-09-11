@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [1168-duplicate-zeros](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1168-duplicate-zeros) |
 ## Sorting
@@ -131,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
