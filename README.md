@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
