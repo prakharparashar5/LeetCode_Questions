@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0792-binary-search) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
