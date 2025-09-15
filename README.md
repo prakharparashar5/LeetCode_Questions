@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
