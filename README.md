@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0792-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1168-duplicate-zeros) |
 | [1917-maximum-average-pass-ratio](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2058-concatenation-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prakharparashar5/LeetCode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Greedy
 |  |
